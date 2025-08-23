@@ -2,10 +2,11 @@ NAME:
 FFC Cooking Simulator : CooK It!
 UI_DATA:
 /-GAME_ICON:
-UI/FFGCS.png
+UI/FFGCS_ico.eifi
 /-GAME_BANNER:
-UI/FFGCS_BG.png
+UI/FFGCS_bkgrd.ebfi
 DLCs:
 None
 UPDATES:
 None
+
