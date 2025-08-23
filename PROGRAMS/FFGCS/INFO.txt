@@ -1,0 +1,11 @@
+NAME:
+FFC Cooking Simulator : CooK It!
+UI_DATA:
+/-GAME_ICON:
+UI/FFGCS.png
+/-GAME_BANNER:
+UI/FFGCS_BG.png
+DLCs:
+None
+UPDATES:
+None
